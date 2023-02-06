@@ -1,0 +1,11 @@
+D:\CODES\C#\Delegate\Delegate\bin\Debug\Delegate.exe.config
+D:\CODES\C#\Delegate\Delegate\bin\Debug\Delegate.exe
+D:\CODES\C#\Delegate\Delegate\bin\Debug\Delegate.pdb
+D:\CODES\C#\Delegate\Delegate\obj\Debug\Delegate.csproj.AssemblyReference.cache
+D:\CODES\C#\Delegate\Delegate\obj\Debug\Delegate.Form1.resources
+D:\CODES\C#\Delegate\Delegate\obj\Debug\Delegate.Form2.resources
+D:\CODES\C#\Delegate\Delegate\obj\Debug\Delegate.Properties.Resources.resources
+D:\CODES\C#\Delegate\Delegate\obj\Debug\Delegate.csproj.GenerateResource.cache
+D:\CODES\C#\Delegate\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+D:\CODES\C#\Delegate\Delegate\obj\Debug\Delegate.exe
+D:\CODES\C#\Delegate\Delegate\obj\Debug\Delegate.pdb
